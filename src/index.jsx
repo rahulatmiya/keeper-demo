@@ -23,6 +23,7 @@ import { createRoot } from "react-dom/client";
 import React from 'react'; // Ensure React is imported
 import ReactDOM from 'react-dom';
 import App from "./App";
+import "./styles.css";
 
 
   // Use the new import path for React 18

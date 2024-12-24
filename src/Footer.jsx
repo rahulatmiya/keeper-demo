@@ -4,7 +4,7 @@ import "./styles.css";
 const currentYear = new Date().getFullYear();
 
 function Footer(){
-    return <p>Copyright @{currentYear}</p>
+    return <footer><p>Copyright @{currentYear}</p></footer>
 }
 
 
