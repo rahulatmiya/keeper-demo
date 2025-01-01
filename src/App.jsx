@@ -11,6 +11,7 @@ import Footer from "./Footer";
 function App(){
     return <div>
         <Header />
+        <Header />
         <Note />
         <Footer />
     </div>
